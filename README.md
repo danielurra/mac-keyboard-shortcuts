@@ -7,5 +7,6 @@ Apple Mac keyboard Shortcuts
 ## Open Finder
 ![open-finder](https://github.com/danielurra/mac-keyboard-shortcuts/assets/51704179/7dbc642d-19a2-45e0-ae1a-72d79d3faf34)<br>
 ## Emojis
+![emojis-actual-screenshot](https://github.com/danielurra/mac-keyboard-shortcuts/assets/51704179/84912f4b-bc32-4cc1-8e0f-ca462b57a080)<br>
 ![emojis](https://github.com/danielurra/mac-keyboard-shortcuts/assets/51704179/894266f7-62ba-401a-9cde-c56c44b54bf1)<br>
 
